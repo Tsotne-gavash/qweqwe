@@ -1,0 +1,191 @@
+/* pirveli */
+.container {
+  width: 100%;
+  height: 70px;
+}
+.navbar {
+  display: flex;
+  height: 70px;
+  width: 100%;
+  justify-content: space-between;
+}
+.flex {
+  display: flex;
+}
+.navigacia ul {
+  display: flex;
+  padding-right: 100px;
+}
+.navbar {
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigacia li {
+  padding: 20px;
+}
+/* meore */
+.divsection {
+  width: 50%;
+  background-color: white;
+  padding-left: 5%;
+  margin-top: 10%;
+}
+
+.paragraph {
+  padding: 1.5em 0;
+  color: var(--primary-2);
+  font-weight: 700;
+}
+.inp {
+  padding: 8px 15%;
+  border-radius: 5px;
+  border: 1px solid var(--primary-2);
+}
+.btn {
+  margin-left: 1em;
+  padding: 8px 50px;
+  border-radius: 5px;
+  border: 0.1px solid var(--accent-1);
+  color: white;
+  background-color: var(--accent-1);
+}
+.erti {
+  display: flex;
+  height: 700px;
+}
+.h22 {
+  display: block;
+}
+.img {
+  width: 100%;
+}
+/* poto am or shoris */
+
+.poto112 {
+}
+/* mesame */
+
+.mesame {
+  background-color: var(--Neutral-l);
+  width: 100%;
+  height: 800px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.text1 {
+  height: 100%;
+  width: 60%;
+}
+.text2 {
+  height: 100%;
+  width: 40%;
+}
+
+.p1 {
+  font-size: 15px;
+  padding-left: 2em;
+}
+.p2 {
+  padding-bottom: 2em;
+  font-size: 15px;
+  padding-left: 2em;
+  padding-top: 2px;
+}
+.p3 {
+  font-size: 15px;
+  padding-left: 2em;
+}
+.p4 {
+  padding-top: 2px;
+  font-size: 15px;
+  padding-left: 2em;
+  padding-bottom: 2em;
+}
+.h10 {
+  display: flex;
+  padding: 2rem;
+  font-weight: 700;
+  font-size: 2.5em;
+}
+.meore {
+  width: 50%;
+  height: 700px;
+}
+.flyo {
+  padding-left: 2em;
+  font-size: 20px;
+  text-decoration: underline;
+  color: var(--accent-2);
+}
+.card {
+  width: 450px;
+  height: 300px;
+  background-color: white;
+  border-radius: 5%;
+  margin: 2em;
+}
+.cardp {
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-right: 10%;
+}
+.quotes {
+  margin-left: 10%;
+  padding-top: 5%;
+}
+.avatar {
+  border-radius: 70%;
+}
+.avatarisdiv {
+  padding-left: 10%;
+  padding-top: 5%;
+}
+.avatarh1 {
+  padding-left: 40%;
+}
+.ilustracia {
+  width: 100%;
+  padding-top: 15%;
+  padding-right: 10%;
+}
+.before-footer {
+  width: 100%;
+  background-color: var(--primary-2);
+  height: 250px;
+  display: flex;
+}
+.div-text {
+  width: 50%;
+  color: white;
+  justify-content: center;
+  padding-top: 5%;
+  padding-left: 5%;
+  height: 100%;
+}
+.bfp {
+  padding-top: 3%;
+  max-width: 390px;
+}
+.input {
+  width: 350px;
+  height: 40px;
+  display: block;
+}
+.btnc {
+  margin-top: 5%;
+  height: 40px;
+  width: 150px;
+  color: white;
+  background-color: var(--accent-1);
+}
+.box7 {
+  width: 50%;
+  color: white;
+  justify-content: center;
+  padding-top: 5%;
+  padding-left: 5%;
+  height: 100%;
+}
